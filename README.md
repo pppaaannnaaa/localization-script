@@ -1,0 +1,1 @@
+run yarn sync-locale to generate localization for all language

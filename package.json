@@ -1,0 +1,10 @@
+{
+  "name": "localization",
+  "version": "1.0.0",
+  "main": "syncLocaleScript.js",
+  "author": "pdasxebia <pdas@xebia.com>",
+  "license": "MIT",
+  "scripts": {
+    "sync-locale": "node syncLocaleScript.js local.xlsx"
+  }
+}
